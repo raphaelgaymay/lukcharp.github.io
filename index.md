@@ -1,6 +1,6 @@
 ---
 layout: promo-page
-title: Qui suis-je?
+title: Qui suis-je?: Gros ZIZI
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
 hero_image: assets/imgs/image.png
@@ -8,7 +8,7 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Gros ZIZI
 Elève ingénieur en [préciser sa spécialité]
 
 
